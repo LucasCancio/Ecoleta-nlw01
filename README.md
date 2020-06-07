@@ -45,8 +45,8 @@ _________
 
 ## 💻 Projeto
 
-   <p style="margin-left:5em">🏭**Servidor**  &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
-   <p style="margin-left:5em">🌍 **Aplicação Web**  &nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
+   <p style="margin-left:5em">🏭**Servidor** &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
+   <p style="margin-left:5em">🌍 **Aplicação Web** &nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
    <p style="margin-left:5em">📱 **Aplicação Mobile**  &nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
 
 _________
@@ -95,7 +95,7 @@ $ npm start
 # running on port 3000
 ```
 
-Acesse a pasta app-mobile e faça as instalações:
+Acesse a pasta mobile e faça as instalações:
 
 ```
 # Acesse a pasta do mobile
