@@ -1,35 +1,29 @@
 ![](assets/nlw.jpg)
-  
-  <p align="center">
-  <img width="250" src="assets/logo-nlw.svg">
-</p>
-
-_________
+<h1 align="center">🚀🏆 NEXT LEVEL WEEK 🏆🚀</h1>
 
 ### 🤔 O que é o Next Level Week?
 
 Criado pela Rocketseat, o NLW é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
-Através do nosso método você vai aprender novas ferramentas, conhecer novas tecnologias e descobrir hacks que vão impulsionar a sua carreira.
+Através do nosso método você aprende novas ferramentas, conhece novas tecnologias e descobre hacks que impulsionão a sua carreira.
 
-Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo na sua evolução como dev.
+Um evento online e totalmente gratuito que te ajuda a dar o próximo passo na sua evolução como dev.
 
 _________
 
 ### ✨ Sobre o projeto:
-<img src="assets/logo.svg">
-
-O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
-
-##[🎨 Layout](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=).
 
 <p align="center">
 <img width="600" src="assets/ecoleta.png">
 </p>
 
+O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
+
+### 🎨[Layout](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=).
+
 _________
 
-## 🚀 Tecnologias
+## 💡 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -45,9 +39,8 @@ _________
 
 ## 💻 Projeto
 
-   <p style="margin-left:5em">🏭**Servidor** &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
-   <p style="margin-left:5em">🌍 **Aplicação Web** &nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
-   <p style="margin-left:5em">📱 **Aplicação Mobile**  &nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
+   <p style="margin-left:5em">🏭 <b>Servidor</b>&nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p><p style="margin-left:5em">🌍 <b>Web</b>&nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
+   <p style="margin-left:5em">📱 <b>Mobile</b>&nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
 
 _________
 
@@ -117,4 +110,4 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 _________
 
-## ❤ Agradeço muito a [Rocketseat]](https://rocketseat.com.br/)
+## ❤ Agradeço muito a [Rocketseat](https://rocketseat.com.br/)
